@@ -10,4 +10,4 @@ if (word === inverseWord) {
     alert(`A palavra ${word} é um palíndromo`)
 } else {
     alert(`A palavra ${word} não é um palíndromo.`)
-}
+    alert(`A palavra ${word} escrita da esquerda pra direita é ${inverseWord}, assim não sendo um palíndromo.`) }
